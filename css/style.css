@@ -265,7 +265,7 @@ textarea {
           font-size: 2.4rem; } }
     .about__content-details-para {
       font-size: 1.8rem;
-      color: grey;
+      color: #333;
       max-width: 60rem;
       line-height: 1.7;
       margin-bottom: 1rem; }
@@ -314,7 +314,7 @@ textarea {
           font-size: 2.4rem; } }
     .projects__row-content-desc {
       font-size: 1.8rem;
-      color: grey;
+      color: #333;
       max-width: 60rem;
       line-height: 1.7;
       margin-bottom: 3rem; }
@@ -345,7 +345,7 @@ textarea {
       .contact__form-field {
         margin-bottom: 3rem; } }
   .contact__form-label {
-    color: #666;
+    color: #534f4f;
     font-size: 1.4rem;
     letter-spacing: 1px;
     font-weight: 700;
@@ -369,29 +369,29 @@ textarea {
     /* Code for Mozilla Firefox 4 to 18 */
     /* Code for Mozilla Firefox 19+ */ }
     .contact__form-input::placeholder {
-      color: #999;
+      color: #5c5c5c;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input::-webkit-input-placeholder {
-      color: #999;
+      color: #5c5c5c;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input:-ms-input-placeholder {
-      color: #999;
+      color: #5c5c5c;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input::-ms-input-placeholder {
-      color: #999;
+      color: #5c5c5c;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input:-moz-placeholder {
       opacity: 1;
-      color: #999;
+      color: #5c5c5c;
       font-weight: 600;
       font-size: 1.6rem; }
     .contact__form-input::-moz-placeholder {
       opacity: 1;
-      color: #999;
+      color: #5c5c5c;
       font-weight: 600;
       font-size: 1.6rem; }
   .contact__btn {
@@ -459,7 +459,7 @@ textarea {
   .project-details__desc-para {
     font-size: 1.8rem;
     line-height: 1.7;
-    color: grey;
+    color: #333;
     margin-bottom: 2rem; }
 
 .project-details__tools-used {
@@ -670,7 +670,7 @@ textarea {
     background: rgba(153, 153, 153, 0.2);
     border-radius: 5px;
     font-weight: 600;
-    color: #777; }
+    color: #3c3b3b; }
 
 .mouse {
   width: 25px;
